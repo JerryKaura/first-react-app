@@ -7,7 +7,7 @@ import About from './components/pages/About';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 import axios from 'axios';
 import './App.css';
-// C
+
 
 class App extends Component{
   state = {
