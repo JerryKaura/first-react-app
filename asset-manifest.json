@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JerryKaura.github.io/first-react-app/static/css/main.563df576.chunk.css",
+    "main.js": "/JerryKaura.github.io/first-react-app/static/js/main.bb922e81.chunk.js",
+    "main.js.map": "/JerryKaura.github.io/first-react-app/static/js/main.bb922e81.chunk.js.map",
+    "runtime-main.js": "/JerryKaura.github.io/first-react-app/static/js/runtime-main.d715fc85.js",
+    "runtime-main.js.map": "/JerryKaura.github.io/first-react-app/static/js/runtime-main.d715fc85.js.map",
+    "static/js/2.b461cd9c.chunk.js": "/JerryKaura.github.io/first-react-app/static/js/2.b461cd9c.chunk.js",
+    "static/js/2.b461cd9c.chunk.js.map": "/JerryKaura.github.io/first-react-app/static/js/2.b461cd9c.chunk.js.map",
+    "index.html": "/JerryKaura.github.io/first-react-app/index.html",
+    "precache-manifest.e1d99634418f982da9cead9c61c1ca16.js": "/JerryKaura.github.io/first-react-app/precache-manifest.e1d99634418f982da9cead9c61c1ca16.js",
+    "service-worker.js": "/JerryKaura.github.io/first-react-app/service-worker.js",
+    "static/css/main.563df576.chunk.css.map": "/JerryKaura.github.io/first-react-app/static/css/main.563df576.chunk.css.map",
+    "static/js/2.b461cd9c.chunk.js.LICENSE.txt": "/JerryKaura.github.io/first-react-app/static/js/2.b461cd9c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d715fc85.js",
+    "static/js/2.b461cd9c.chunk.js",
+    "static/css/main.563df576.chunk.css",
+    "static/js/main.bb922e81.chunk.js"
+  ]
+}
